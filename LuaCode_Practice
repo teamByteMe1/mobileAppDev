@@ -1,0 +1,3 @@
+-- Used as a test for later in assignment
+
+display.newText( "Hello World!", 160, 240, "Arial", 60 )
